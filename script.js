@@ -1,4 +1,4 @@
-const API_KEY = "563492ad6f91700001000001xxxxxxxxxxxxxxxx";
+const API_KEY = "wSFPwR3u0poElOYJJsyJYMvot6JxSrqiU0fKMzDHD1aiJp7bwq7tQEUawSFPwR3u0poElOYJJsyJYMvot6JxSrqiU0fKMzDHD1aiJp7bwq7tQEUawSFPwR3u0poElOYJJsyJYMvot6JxSrqiU0fKMzDHD1aiJp7bwq7tQEUa";
 const gallery = document.getElementById("gallery");
 
 async function loadImages() {
