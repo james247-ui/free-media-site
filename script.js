@@ -1,4 +1,4 @@
-const API_KEY = "PASTE_YOUR_PEXELS_API_KEY_HERE";
+const API_KEY = "563492ad6f91700001000001xxxxxxxxxxxxxxxx";
 const gallery = document.getElementById("gallery");
 
 // Images
