@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: white;
+}
+
+#gallery {
+  column-count: 2;
+  column-gap: 10px;
+  padding: 10px;
+}
+
+.item {
+  background: white;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.item img,
+.item video {
+  width: 100%;
+  display: block;
+}
+
+.download {
+  display: block;
+  text-align: center;
+  padding: 8px;
+  background: black;
+  color: white;
+  text-decoration: none;
+}
